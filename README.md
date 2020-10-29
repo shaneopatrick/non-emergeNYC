@@ -214,3 +214,5 @@ I did not get a chance to spend any time of network architecture or fine-tuning 
 **Methodology**
 
 I beleive a Probabibilistic time series model would be well suited for this problem. My goal was to utilize this third algorithm type to compare against the LSTM. Perhaps another day...
+
+**Clean up and refactor code!!**
