@@ -1,0 +1,12 @@
+Weather data can be found at:
+https://www.kaggle.com/selfishgene/historical-hourly-weather-data
+
+311 service requests for NYC can be found at:
+https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+
+
+My own daily aggregated dataset (yr 2016 and on):
+https://drive.google.com/file/d/1vH4L4vYDKMoN5uxkj4RHTvv6__OYBpp0/view?usp=sharing
+
+NYC weather combined:
+https://drive.google.com/file/d/1-1L1cUFS8lV_XJ4WQXPhgHGKxGyI_tH1/view?usp=sharing
